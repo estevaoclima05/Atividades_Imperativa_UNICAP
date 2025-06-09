@@ -1,0 +1,35 @@
+Detergente
+20
+3.50
+Limpeza
+10
+
+Sabão em Pó
+15
+12.00
+Limpeza
+8
+
+Desinfetante
+30
+7.80
+Limpeza
+15
+
+Água Sanitária
+25
+4.20
+Limpeza
+10
+
+Esponja de Aço
+50
+1.50
+Limpeza
+20
+
+Multiuso
+40
+6.00
+Limpeza
+10
